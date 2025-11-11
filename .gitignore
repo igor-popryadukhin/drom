@@ -1,1 +1,9 @@
-/.idea
+__pycache__/
+*.py[cod]
+*.egg-info/
+.data/
+data/
+state.json
+*.sqlite
+*.log
+*.tmp
